@@ -53,8 +53,8 @@ int usedChannels[15];
   //SSID WIFI
   
   //ivan local
-  #define mySSID "TOTOLINK N600RD"
-  #define myPASSWORD "sambrana50"
+  #define mySSID "iot"
+  #define myPASSWORD "12345678"
 
 //ivan 4g
 // #define mySSID "iot"

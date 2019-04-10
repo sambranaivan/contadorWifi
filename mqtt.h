@@ -3,8 +3,8 @@
 
 WiFiClient espClient;
 PubSubClient client(espClient);
-  // const char *mqttServer = "sambrana.com.ar";
-const char *mqttServer = "191.239.243.244";
+  const char *mqttServer = "sambrana.com.ar";
+// const char *mqttServer = 191.239.243.244;
 //azure 191.239.243.244
 
 /*
